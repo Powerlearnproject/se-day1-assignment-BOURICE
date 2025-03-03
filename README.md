@@ -9,17 +9,13 @@ Software Engineering is all about writing instructions(called code) for computer
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 The Birth of Software Engineering (1968)
-
-    The term "Software Engineering" was first introduced at the NATO Software Engineering Conference in 1968.
-    This was in response to the "Software Crisis," where software projects were failing due to poor planning, inefficiency, and a lack of structured methodologies.
-    The conference emphasized the need for software development to be treated as an engineering discipline, with systematic design, testing, and project management.
+The term "Software Engineering" was first introduced at the NATO Software Engineering Conference in 1968.
+This was in response to the "Software Crisis," where software projects were failing due to poor planning, inefficiency, and a lack of structured methodologies.
+The conference emphasized the need for software development to be treated as an engineering discipline, with systematic design, testing, and project management.
 
 The Rise of Structured Programming (1970s-1980s)
-
-    The Waterfall Model, introduced by Winston W. Royce in 1970, became one of the first formal software development methodologies. It followed a step-by-step approach: Requirements → Design → Implementation → Testing → Deployment → Maintenance.
-    Programming paradigms like structured programming (led by languages like C and Pascal) replaced unstructured coding, improving code readability and maintainability.
-    The UNIX operating system, developed in 1969-1971, introduced key software engineering concepts such as modular design and portability.
-
+Programming languages like Smalltalk, C++, and later Java gained popularity, making code more modular and reusable.
+This shift improved software maintainability, scalability, and code organization.
 The Agile and DevOps Revolution (2000s-Present)
 
     The Agile Manifesto (2001) introduced a flexible, iterative approach to software development, prioritizing customer feedback and continuous improvement over rigid processes.
